@@ -134,27 +134,6 @@ class Pechyvo:
 
 ---
 
-## 🌐 Community
-
-<table>
-  <tr>
-    <td>
-      <h3>TitanWard Hosting</h3>
-      <p><strong>Team member for Ukraine-focused game hosting and community support</strong></p>
-      <p>Helping with server setup, customization, troubleshooting, and player-facing support.</p>
-      <p>
-        <a href="https://discord.gg/jqvD8HHA8G">
-          <img src="https://img.shields.io/badge/Discord-Join%20TitanWard-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join TitanWard on Discord" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-Contact is currently handled through the TitanWard Discord server.
-
----
-
 ## 🏆 Achievements
 
 - **YOLO** - Pushed code directly to main (we've all been there! 😅)
@@ -169,7 +148,7 @@ Contact is currently handled through the TitanWard Discord server.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pechyvo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/severyn-valchuk-745b462b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/severynvalchuk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svalchuk@student.42wolfsburg.de)
 
 </div>
